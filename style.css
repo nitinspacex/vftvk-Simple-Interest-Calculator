@@ -1,4 +1,54 @@
-body {background-color:tan;}
-h1{color:green;}
+#back{
+background-color: #4dffc3;
+height: 1000px;
+border: 10px solid blue;
+border-radius: 15px;
 
 
+}
+#cal{
+height: 400px;
+width: 400px;
+border:5px solid black;
+border-radius: 10px;
+text-align: center;
+margin: 0 auto;
+margin-top: 100px;
+background-color:  #00f0ff;
+}
+#word{
+color: #4d4dff;
+}
+#first{
+height: 30;
+width: 100;
+border: 3px solid black;
+margin-left: 120px;
+margin-top: 32px;
+}
+#first{
+height: 30;
+width: 100;
+border: 3px solid black;
+margin-left: 120px;
+margin-top: 32px;
+}
+#second{
+height: 30;
+width: 100;
+border: 3px solid black;
+margin-left: 120px;
+margin-top: 32px;
+}
+
+#third{
+height: 30;
+width: 100;
+border: 3px solid black;
+margin-left: 120px;
+margin-top: 32px;
+}
+#btn{
+margin-left: 100px;
+margin-top: 50px;
+}
